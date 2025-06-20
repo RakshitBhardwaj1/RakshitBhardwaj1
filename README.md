@@ -1,4 +1,4 @@
-![logo](https://github.com/RakshitBhardwaj1/RakshitBhardwaj1/blob/main/Untitled%20design%20(1).png) 
+<img src="https://github.com/RakshitBhardwaj1/RakshitBhardwaj1/blob/main/Untitled%20design%20(1).png" height="400" width="100%" />
 <h1 align="center">Hi 👋, I'm Rakshit Bhardwaj</h1>
 <h3 align="center">Data Analyst Intern | Aspiring Data Scientist | Java & ML Explorer From India</h3>
 
