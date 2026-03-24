@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitbhardwaj1&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitbhardwaj1" /> </p>
 
 - ⚡ Fun fact **I am funny**
-
+__
 <h3 align="left">Connect with me:</h3><br><br>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rakshit-bhardwaj-260978288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakshit-bhardwaj-260978288/" height="30" width="40" /></a>
@@ -65,7 +65,7 @@
 
 <h3 align="left">🏆 GitHub Trophies:</h3><br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakshitbhardwaj1&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RakshitBhardwaj1&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
 </p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshitbhardwaj1&show_icons=true&locale=en&layout=compact" alt="rakshitbhardwaj1" /></p>
